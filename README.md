@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Mobile App developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalki767&label=Profile%20views&color=0e75b6&style=flat" alt="kalki767" /> </p>
+<p><img align="right" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif" width="350" /> </p>
 
 - 🌱 I’m currently learning **Flutter, Go**
 
@@ -10,8 +11,6 @@
 - 📫 How to reach me **kalkidankidane3@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1CWm1QeAV5s3vpI3xygAu1BwPPNuoxzSy/view?usp=sharing](https://drive.google.com/file/d/1CWm1QeAV5s3vpI3xygAu1BwPPNuoxzSy/view?usp=sharing)
-
-<p><img align="right" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif" width="350" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,6 +26,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalki767&show_icons=true&locale=en&layout=compact" alt="kalki767" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=kalki767&show_icons=true&locale=en" alt="kalki767" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalki767&show_icons=true&locale=en" alt="kalki767" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kalki767&" alt="kalki767" /></p>
