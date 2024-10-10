@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **kalkidankidane3@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1CWm1QeAV5s3vpI3xygAu1BwPPNuoxzSy/view?usp=sharing](https://drive.google.com/file/d/1CWm1QeAV5s3vpI3xygAu1BwPPNuoxzSy/view?usp=sharing)
+- 📄 Know about my experiences [Checkout my resume](https://drive.google.com/file/d/1CWm1QeAV5s3vpI3xygAu1BwPPNuoxzSy/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
