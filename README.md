@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kalkidan Kidane</h1>
-<h3 align="center">A passionate Mobile App developer</h3>
+<h3 align="center">A passionate Mobile App Developer specializing in creating dynamic and user-friendly applications. Currently, I’m diving deep into Flutter to craft cross-platform mobile experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalki767&label=Profile%20views&color=0e75b6&style=flat" alt="kalki767" /> </p>
 <p><img align="right" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif" width="350" /> </p>
