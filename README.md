@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kalkidan Kidane</h1>
 <h3 align="center">Mobile App Developer specializing in Flutter for cross-platform experiences, with a growing focus on backend development to build robust server-side solutions.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kalki767&label=Profile%20views&color=0e75b6&style=flat" alt="kalki767" /> </p>
 <p><img align="right" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif" width="350" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kalki767&label=Profile%20views&color=0e75b6&style=flat" alt="kalki767" /> </p>
 
 - 🌱 I’m currently learning **Flutter, Go**
 
