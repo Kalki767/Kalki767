@@ -3,7 +3,7 @@
 <p><img align="right" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif" width="350" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kalki767&label=Profile%20views&color=0e75b6&style=flat" alt="kalki767" /> </p>
 
-- 🌱 I’m currently learning **Flutter, Go**
+- 🌱 I’m currently learning **Flutter, Go, .NET**
 
 - 💬 Ask me about **Data Structure & Algorithm**
 
