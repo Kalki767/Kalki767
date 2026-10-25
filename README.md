@@ -1,29 +1,100 @@
-<h1 align="center">Hi 👋, I'm Kalkidan Kidane</h1>
-<h3 align="center">Mobile App Developer specializing in Flutter for cross-platform experiences, with a growing focus on backend development to build robust server-side solutions.</h3>
-<p><img align="right" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif" width="350" /> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kalki767&label=Profile%20views&color=0e75b6&style=flat" alt="kalki767" /> </p>
+<div align="center">
 
-- 🌱 I’m currently learning **Flutter, Go, .NET**
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:2E7D5B,100:A9D18E&text=Kalkidan%20Kidane&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=Addis%20Ababa%20%C2%B7%20software%20engineer&descAlignY=58&descSize=16" width="100%" alt="Kalkidan Kidane" />
 
-- 💬 Ask me about **Data Structure & Algorithm**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=900&color=2E7D5B&center=true&vCenter=true&width=520&lines=I+like+systems+that+move+fast+and+don't+break;Building+for+people+on+slow+networks;Learning+how+computers+talk+to+each+other" alt="typing intro" />
 
-- 📫 How to reach me **kalkidankidane3@gmail.com**
+</div>
 
-- 📄 Know about my experiences [Checkout my Resume](https://drive.google.com/file/d/1CWm1QeAV5s3vpI3xygAu1BwPPNuoxzSy/view?usp=sharing)
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kalkidan-kidaneb8a892281/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kalkidan-kidaneb8a892281/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/kalkidan_kidane" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/kalkidan_kidane" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/kalki75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/kalki75" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/kalki767/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/kalki767/" height="30" width="40" /></a>
+### 🌿 Hi, I'm Kalkidan
+
+I'm curious about what happens **underneath** the apps we use every day: how data travels across a network, how a server keeps up when thousands of things happen in one second, and what to do when something fails halfway.
+
+I started out building mobile apps, and the backend slowly pulled me in. Today I spend most of my time between **Go**, **C++** and **Flutter**, trying to write software that is fast, honest about its limits and kind to the people using it.
+
+<br/>
+
+### ✨ What I'm drawn to
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**⚡ Real-time systems**<br/>
+Streams of data that never stop, and making sure nothing is lost, late or counted twice.
+
+</td>
+<td width="50%" valign="top">
+
+**🌐 How computers talk**<br/>
+Networks, WebSockets, queues and the small details that decide whether a system holds up under load.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**📱 Apps that work offline**<br/>
+In Ethiopia, internet can be slow or expensive. I like building apps that keep working anyway and sync when they can.
+
+</td>
+<td width="50%" valign="top">
+
+**💚 Technology for wellbeing**<br/>
+Software that helps people take care of their mental health, in their own language, including Amharic.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🧩 Algorithms**<br/>
+Puzzles that look impossible at first, then turn simple once you find the right way to see them.
+
+</td>
+<td width="50%" valign="top">
+
+**🔬 Measuring things**<br/>
+Benchmarks over guesses. I like knowing *why* something is fast or slow, not only that it is.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 🌱 Right now I'm
+
+- 📚 learning **distributed systems** and system design, one idea at a time
+- 🐹 getting deeper into **Go** and its way of doing concurrency
+- ⚙️ reading about **C++20** and what modern C++ makes possible
+- 🤝 open to conversations about backend, real-time data and mobile engineering
+
+<br/>
+
+### 🧰 Tools I enjoy
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,cpp,dart,flutter,py,postgres,docker,linux,git&perline=9" alt="Go, C++, Dart, Flutter, Python, PostgreSQL, Docker, Linux, Git" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+<br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kalki767&show_icons=true&locale=en&layout=compact" alt="kalki767" /></p>
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kalki767&show_icons=true&locale=en" alt="kalki767" /></p>
+### 💬 Say hello
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kalki767&" alt="kalki767" /></p>
+<a href="https://www.linkedin.com/in/kalkidan-kidaneb8a892281/"><img src="https://img.shields.io/badge/LinkedIn-2E7D5B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:kalkidankidane3@gmail.com"><img src="https://img.shields.io/badge/Email-2E7D5B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://leetcode.com/u/kalki767/"><img src="https://img.shields.io/badge/LeetCode-2E7D5B?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+<a href="https://codeforces.com/profile/kalki75"><img src="https://img.shields.io/badge/Codeforces-2E7D5B?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+
+<br/><br/>
+
+<sub><i>"Small steps matter."</i></sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:A9D18E,100:2E7D5B&section=footer" width="100%" alt="" />
+
+</div>
